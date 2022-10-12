@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Mirror
+  - Walls
+  - Traps
+  - Laser
+  - ShapeChanger
+  - Destructable
+  - LevelChanger
+  - DestruirDecoraCion
+  - Bloque
+  - Collectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - Ground
+  - Player
+  - Platforms
+  - GrappleBlock
+  - Mirror
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackBackGround
+    uniqueID: 3702345491
+    locked: 0
+  - name: background
+    uniqueID: 3111740473
+    locked: 0
+  - name: Level
+    uniqueID: 62464979
+    locked: 0
+  - name: Player
+    uniqueID: 1217594253
+    locked: 0
+  - name: Platforms
+    uniqueID: 1447519359
+    locked: 0
